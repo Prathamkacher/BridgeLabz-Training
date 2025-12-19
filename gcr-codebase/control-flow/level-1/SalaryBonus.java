@@ -8,8 +8,8 @@ public class SalaryBonus {
         int salary = input.nextInt();
 		int year = input.nextInt();
 		
-		//check if year is more than 4.
-		if (year < 5){
+		//check if year is more than 5.
+		if (year < 6){
 			System .out.println("Employe is not Eligible for Bonus");
 		} else {
 			//calculate the bonus amount and print the bonus amount.
