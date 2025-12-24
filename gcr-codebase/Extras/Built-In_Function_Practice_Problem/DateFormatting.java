@@ -14,3 +14,5 @@ public class DateFormatting {
 
         System.out.println(today.format(f1));
         System.out.println
+	}
+}
