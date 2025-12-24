@@ -13,6 +13,7 @@ public class DateFormatting {
         DateTimeFormatter f3 = DateTimeFormatter.ofPattern("EEE, MMM dd, yyyy");
 
         System.out.println(today.format(f1));
-        System.out.println
+		System.out.println(today.format(f2));
+		System.out.println(today.format(f3));
 	}
 }
