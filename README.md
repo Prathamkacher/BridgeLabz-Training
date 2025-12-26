@@ -1,5 +1,4 @@
-```md
-### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+# Week 1: Git, GitHub & Java Programming Fundamentals
 
 ---
 
@@ -9,7 +8,7 @@
 - Installed and configured Git  
 - Set up GitHub repository  
 
-```text
+```
 BridgeLabz-Training/
 │── core-java-practice/
 │   │── gcr-codebase/
@@ -24,10 +23,11 @@ BridgeLabz-Training/
 │   │── scenario-based-codebase/
 │── README.md
 
+```
 - Learned basic Git commands (init, clone, add, commit, push).
 - Successfully pushed files to the remote repository
-
-## 📅 Day 2 – Git Practice & Basic Java Programs  
+`
+## Day 2 – Git Practice & Basic Java Programs  
 **(Date: 17-Dec-2025)**  
 
 ### What I Did:
@@ -40,7 +40,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Day 3 – Programming Elements in Java 
+## Day 3 – Programming Elements in Java 
 **(Date: 18-Dec-2025)**  
 
 ### What I Did:
@@ -56,7 +56,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Day 4 – Control Flow Statements 
+## Day 4 – Control Flow Statements 
 **(Date: 19-Dec-2025)**  
 
 ### What I Did:
@@ -72,7 +72,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Day 5 – Arrays in Java
+## Day 5 – Arrays in Java
 **(Date: 20-Dec-2025)**  
 
 ### What I Did:
@@ -86,5 +86,22 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 5 – Arrays in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
+---
+
+## 📅 Day 6 – Java Methods & Functions
+**(Date: 22-Dec-2025)**  
+
+### What I Did:
+- Method declaration and calling
+- Method parameters and return types
+- Static vs non-static methods
+- Mathematical utility methods
+- Reusable logic using methods
+- Code organization improvement
+
+
+🔗 **Code Link:**  
+👉 [Day 6 – Methods in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
