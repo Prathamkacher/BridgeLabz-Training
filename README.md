@@ -52,6 +52,22 @@ BridgeLabz-Training/
 - Commited and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 3 – Programming Elements in Java](https://github.com/aryaman-0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+👉 [Day 3 – Programming Elements in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+---
+
+## 📅 Day 4 – Control Flow Statements 
+**(Date: 19-Dec-2025)**  
+
+### What I Did:
+- Conditional statements (`if`, `if-else`, `switch`)
+- Looping statements (`for`, `while`, `do-while`)
+- Number-based problems
+- Menu-driven programs
+- Loop-based logic building
+
+
+🔗 **Code Link:**  
+👉 [Day 4 – Programming Elements in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
