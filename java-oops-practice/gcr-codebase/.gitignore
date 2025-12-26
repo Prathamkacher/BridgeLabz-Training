@@ -1,0 +1,28 @@
+/.metadata/
+# Eclipse specific files
+
+javaOopsConcept.metadata/
+
+javaOopsConcept/.settings/
+
+javaOopsConcept/.classpath
+
+javaOopsConcept/.project
+javaOopsConcept/.gitignore
+
+
+# Java build output
+
+javaOopsConcept/bin/
+
+javaOopsConcept/target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
