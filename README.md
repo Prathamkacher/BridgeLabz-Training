@@ -89,7 +89,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Day 6 – Java Methods & Functions
+## Day 6 – Java Methods & Functions
 **(Date: 22-Dec-2025)**  
 
 ### What I Did:
@@ -105,3 +105,19 @@ BridgeLabz-Training/
 👉 [Day 6 – Methods in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
+
+## Day 7 – String Handling in Java 
+**(Date: 23-Dec-2025)**  
+
+### What I Did:
+- String creation and immutability
+- Common String methods
+- Character-level operations using `charAt()`
+- String reversal
+- Character frequency
+- Case conversion
+- Anagram checking
+
+
+🔗 **Code Link:**  
+👉 [Day 7 – Strings in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
