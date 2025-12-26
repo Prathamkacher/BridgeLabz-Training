@@ -68,6 +68,23 @@ BridgeLabz-Training/
 
 
 🔗 **Code Link:**  
-👉 [Day 4 – Programming Elements in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+👉 [Day 4 – Control Flow in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+
+---
+
+## 📅 Day 5 – Arrays in Java
+**(Date: 20-Dec-2025)**  
+
+### What I Did:
+- One-dimensional arrays
+- Array initialization and traversal
+- Basic array operations
+- Finding even/odd elements
+- Sum, average, min, max in arrays
+- Simple array-based problems
+
+
+🔗 **Code Link:**  
+👉 [Day 5 – Arrays in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
