@@ -1,7 +1,7 @@
 //Create a class StudentGrade to calculate percentage, grade, and remarks.
 import java.util.*;
 public class StudentGrade {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
 
         //Create variables to read marks of 3 subjects
         Scanner input = new Scanner(System.in);
