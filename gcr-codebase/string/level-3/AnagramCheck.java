@@ -37,7 +37,7 @@ public class AnagramCheck {
 
         Scanner sc = new Scanner(System.in);
 
-        //User Input
+        // Input
         System.out.print("Enter first text: ");
         String text1 = sc.nextLine();
 
