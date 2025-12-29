@@ -19,7 +19,7 @@ public class DiscountDashboard {
 		double[] itemPrice =new double[itemCount];
 		
 		double totalBill = 0.0;
-		
+		//loop to take input from the user for item name and price
 		for (int i=0; i<itemCount; i++){
 			System.out.println("Enter name of item " + (i+1) + ": ");
 			itemName[i] = input.nextLine();
@@ -31,7 +31,7 @@ public class DiscountDashboard {
 			
 			totalBill += itemPrice[i];
 		}
-		
+		//condition for the discount
 		double discount;
 		
 		if (totalBill >= 3000){
@@ -49,13 +49,13 @@ public class DiscountDashboard {
 		else {
 			discount = 0.0;
 		}
-		
+		//final bill after discount
 		double finalBill = totalBill - discount;
-		
+		//Bill Generate 
 		System.out.println("\n================== SHOP BILL ==================");
         System.out.printf("%-5s %-20s %-10s%n", "No", "Item Name", "Price");
         System.out.println("-----------------------------------------------");
-
+		
         for (int i = 0; i < itemCount; i++) {
             System.out.printf("%-5d %-20s Rs%-10.2f%n",
                     (i + 1), itemName[i], itemPrice[i]);
