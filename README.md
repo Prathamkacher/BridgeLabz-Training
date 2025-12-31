@@ -88,3 +88,20 @@ BridgeLabz-Training/
 👉 [Day 5 – Arrays in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
+
+## Day 6 – Java Methods & Functions
+**(Date: 22-Dec-2025)**  
+
+### What I Did:
+- Method declaration and calling
+- Method parameters and return types
+- Static vs non-static methods
+- Mathematical utility methods
+- Reusable logic using methods
+- Code organization improvement
+
+
+🔗 **Code Link:**  
+👉 [Day 6 – Methods in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
+---
