@@ -39,3 +39,19 @@ BridgeLabz-Training/
 👉 [Day 2 – Basic Java Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programm-prerequisite)
 
 ---
+
+## Day 3 – Programming Elements in Java 
+**(Date: 18-Dec-2025)**  
+
+### What I Did:
+- Studied Java programming elements:
+  - Variables and Data Types
+  - Operators
+  - User input and output
+- Solved practice problems based on programming elements.
+- Commited and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 3 – Programming Elements in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+---
