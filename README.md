@@ -121,3 +121,40 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 7 – Strings in Java](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+
+---
+
+# Week 2: OOPs concepts
+---
+
+##  Day 8 – Extra Practice & Date-Time API
+
+(**Date: 23-Dec-2025**)
+
+**Topics studied:**
+
+* Built-in Java functions
+* Object class `.equals()` vs String `.equals()`
+* `==` operator comparisons
+* Thread basics and thread safety
+* Legacy Date-Time API (`Date`, `Calendar`)
+
+ **Topics Practiced:**
+* Common built-in functions
+* Modern Date-Time API (`java.time`)
+
+  * `LocalDate`
+  * `LocalTime`
+  * `LocalDateTime`
+  * `ZonedDateTime`
+* Date parsing, formatting, and comparison
+* Date arithmetic using built-in methods
+
+**Code Link:**
+[Extras](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+
+**Git Activity:**
+
+* Code committed and pushed to GitHub
+
+---
