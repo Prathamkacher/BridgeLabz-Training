@@ -260,3 +260,29 @@ BridgeLabz-Training/
 
 ---
 
+## Day 12 – Keywords and instanceOf operator
+(**Date: 29-Dec-2025**)
+
+
+**Topics studied:**
+
+- Solved **5 scenario-based questions** using Core Java  
+- Studied **keywords** and the **`instanceof` operator**  
+- Practiced **2 LeetCode array problems** 
+
+
+
+**Practiced Problems**
+
+- Parking Lot Gate System 🚗
+- The Number Guessing Game 🎲
+- Shopkeeper’s Discount Dashboard 🛍️
+- School Bus Attendance System 🚍
+- Phone Recharge Simulator 📱
+
+
+**Code Links**
+
+- [Inbuilt functions](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/inbuiltfuction)
+- [Core Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+- [Leetcode Practice](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
