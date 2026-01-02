@@ -352,3 +352,37 @@ BridgeLabz-Training/
 
 ---
 
+## Day 15 – Encapsulation, Polymorphism and Interface
+(**Date: 1-Dec-2025**)
+
+
+**Topics studied:**
+- Encapsulation
+ 	- Data hiding
+ 	- Access modifiers
+ 	- Getters and setters
+ 	- Class responsibility
+
+- Polymorphism
+	- Method overloading
+	- Method overriding
+	- Compile-time vs runtime polymorphism
+	- Dynamic method dispatch
+
+- Interface
+	- Contract definition
+	- Multiple inheritance support
+	- Loose coupling
+	- Implementation enforcement
+
+**Practiced Problems**
+
+- Solved **5 scenario-based Java OOP programs**:
+- Solved **5 LeetCode problems** on Strings using Core Java
+- Solved multiple questions on **Encapsulation, Polymorphism and Interface**
+
+**Code Links**
+
+- [Encapsulation, Polymorphism and Interface]()
+- [OOPs Java Scenario Based Programs]()
+- [Leetcode Practice](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
