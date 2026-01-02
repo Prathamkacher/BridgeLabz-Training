@@ -286,3 +286,33 @@ BridgeLabz-Training/
 - [Inbuilt functions](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/inbuiltfuction)
 - [Core Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 - [Leetcode Practice](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+---
+
+## Day 13 – Object Modeling & Class Diagram
+(**Date: 30-Dec-2025**)
+
+
+**Topics studied:**
+
+- Studied and practiced problems on object modeling and relations
+- Solved **5 scenario-based questions** using Core Java    
+
+
+
+**Practiced Problems**
+
+- Sandeep’s Fitness Challenge Tracker 🏋️
+- Train Reservation Queue 🚆
+- Temperature Logger 🌡️
+- Movie Ticket Booking App 🎬
+- Rohan’s Library Reminder App 📚
+
+
+**Code Links**
+
+- [Object Modeling & Class Diagram](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/objectmodelling)
+- [Core Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
+
