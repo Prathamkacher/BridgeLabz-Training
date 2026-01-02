@@ -52,3 +52,30 @@
 
 ---
 
+## Day 12 – Keywords and instanceOf operator
+(**Date: 29-Dec-2025**)
+
+
+**Topics studied:**
+
+- Learned about **this**, **static**, and **final** keywords
+- Studied **keywords** and the **`instanceof` operator**  
+
+
+
+**Practiced Problems**
+
+- Bank Account System
+- Library Management System
+- Employee Management System
+- Shopping Cart System
+- Vehicle Registration System
+
+and many more...
+
+
+**Code Links**
+
+- [Keywords](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/inbuiltfunction)
+
+---
