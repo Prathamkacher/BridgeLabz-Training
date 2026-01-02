@@ -316,3 +316,39 @@ BridgeLabz-Training/
 
 ---
 
+## Day 14 – Inheritance
+(**Date: 31-Dec-2025**)
+
+
+**Topics studied:**
+
+- Studied and practiced Inheritance concepts:
+	- Inheritance
+	- Single Level Inheritance
+	- Multilevel Inheritance
+	- Hierarchical Inheritance
+	- Key Features of Inheritance
+	- Method Overriding
+	- Constructor Inheritance in Java
+	- Polymorphism and Inheritance
+	- Access Modifiers and Inheritance
+- Solved **5 scenario-based Java programs**:
+- Solved **5 LeetCode problems** using Core Java
+
+
+**Practiced Problems**
+
+- Digital Watch Simulation ⏱️
+- Online Quiz Application 🧠
+- Currency Exchange Kiosk 💱
+- Bus Route Distance Tracker 🚌
+- Festival Lucky Draw 🎉
+
+**Code Links**
+
+- [Inheritance](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/inheritance)
+- [Core Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+- [Leetcode Practice](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+---
+
