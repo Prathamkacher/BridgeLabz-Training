@@ -1,0 +1,27 @@
+/.metadata/
+
+JavaDSAConcepts.metadata/
+
+JavaDSAConcepts/.settings/
+
+JavaDSAConcepts/.classpath
+
+JavaDSAConcepts/.project
+JavaDSAConcepts/.gitignore
+
+
+# Java build output
+
+JavaDSAConcepts/bin/
+
+JavaDSAConcepts/target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
