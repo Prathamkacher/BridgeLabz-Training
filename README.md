@@ -188,3 +188,11 @@ and many more...
 
 - Solved **5 scenario-based Java OOP programs**:
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day3)
+
+---
+
+## Day 16 – Scenario-based Java Oop program
+(**Date: 5-Dec-2025**)
+
+- Solved **5 scenario-based Java OOP programs**:
+- [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day4)
