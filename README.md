@@ -1,4 +1,4 @@
-### Day 10 – OOP Concepts & Core Java Practice
+<img width="2661" height="676" alt="image" src="https://github.com/user-attachments/assets/87595267-ff54-4c82-8eb8-fa886461d32b" />### Day 10 – OOP Concepts & Core Java Practice
 
 (**Date: 26-Dec-2025**)
 
@@ -174,3 +174,11 @@ and many more...
 
 - [Encapsulation, Polymorphism and Interface](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/encapsulationandpolymorphism)
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day1)
+
+---
+
+## Day 16 – Scenario-based Java Oop program
+(**Date: 1-Dec-2025**)
+
+- Solved **5 scenario-based Java OOP programs**:
+- [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day2)
