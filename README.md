@@ -1,3 +1,7 @@
+# Week 2: OOPs concepts
+---
+
+## Day 10 – OOP Concepts & Core Java Practice
 (**Date: 26-Dec-2025**)
 
 ---
@@ -173,6 +177,8 @@ and many more...
 - [Encapsulation, Polymorphism and Interface](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/javaOopsConcept/src/com/encapsulationandpolymorphism)
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day1)
 
+---
+# Week 3: OOPs Scenario Based Ques
 ---
 
 ## Day 16 – Scenario-based Java Oop program
