@@ -179,6 +179,13 @@ and many more...
 (**Date: 2-Dec-2025**)
 
 - Solved **5 scenario-based Java OOP programs**:
+  - Hospital Patient Management System
+  - Vehicle Rental Application
+  - University Course Enrollment System
+  - University Course Enrollment System
+  - E-Wallet Application
+  - Smart Home Automation System
+    
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day2)
 
 ---
@@ -187,6 +194,9 @@ and many more...
 (**Date: 3-Dec-2025**)
 
 - Solved **2 scenario-based Java OOP programs**:
+  - CabbyGo – A Ride-Hailing App in the Making
+  - MyBank – Managing Customer Accounts
+    
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day3)
 
 ---
@@ -195,6 +205,9 @@ and many more...
 (**Date: 5-Dec-2025**)
 
 - Solved **2 scenario-based Java OOP programs**:
+  - SwiftCart – The Grocery Shopping App
+  - CampusConnect – College Information System
+    
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day4)
 
 ---
@@ -203,4 +216,23 @@ and many more...
 (**Date: 6-Dec-2025**)
 
 - Solved **4 scenario-based Java OOP programs**:
+  - EduMentor – Personalized Learning Platform
+  - FitTrack – Your Personal Fitness Tracker
+  - PetPal – Virtual Pet Care App
+  - EventEase – Event Management Platform
+    
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day5)
+
+---
+
+## Day 20 – Solved OOPs scenario based problems
+(**Date: 7-Dec-2025**)
+
+**Practiced Problems**
+
+- Solved **3 scenario-based Java OOP programs**:
+  - LoanBuddy – Loan Approval Automation
+  - BookBazaar – Digital Bookstore System
+  - ParkEase – Smart Parking Management System
+
+[OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day6)
