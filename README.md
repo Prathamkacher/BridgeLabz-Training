@@ -32,3 +32,37 @@
 - [Linked List](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/linkedlist)
 
 ---
+
+## Day 17 – Stack , Queue, HashMap and Hashing Function
+(**Date: 3-Dec-2025**)
+
+
+**Topics studied:**
+- Stack
+- Queue
+- HashMap
+- Hashing Functions
+
+
+**Practiced Problems:**
+- Stack:
+  - Use for Reversible or Nested Problems
+  - Optimize Stack Size
+  - Avoid Infinite Loops in Recursive Algorithms
+- Queue:
+  - Use for FIFO (First In, First Out) Problems
+  - Choose the Right Type of Queue
+  - Optimize Memory Usage
+- HashMaps and Hash Fucntions:
+  - Find All Subarrays with Zero Sum
+  - Check for a Pair with Given Sum in an Array
+  - Longest Consecutive Sequence
+
+and many more...
+
+**Code Links:**
+
+- [Stack & Queue](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/stackandqueues)
+- [HashMap & Functions](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmapandfunctions)
+
+---
