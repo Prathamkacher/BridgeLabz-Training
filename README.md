@@ -1,3 +1,45 @@
+## 📂 Project Structure
+```
+BridgeLabz-Training/
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 prerequisites/          # Basic Java programs 
+│   │   ├── 📁 programming-elements/   # Java programming elements 
+│   │   ├── 📁 control-flows/          # If-else, loops, switch 
+│   │   ├── 📁 arrays/                 # Array operations
+│   │   ├── 📁 methods/                # Method practices
+│   │   ├── 📁 strings/                # String manipulation 
+│   │   └── 📁 Extras/                 # Built-in methods
+│   ├── 📁 leet-code-codebase/         # LeetCode solutions
+│   └── 📁 scenario-based-codebase/    # Real-world problems
+│
+└── 📁 java-oops-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │               └── 📁 constructor/       # Constructor, access modifiers
+│   │               └── 📁 inbuiltfunction/   # Keywords, instance vs class members
+│   │               └── 📁 objectmodelling/   # Diagrams, relationships, communication
+│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+└── 📁 dsa-practice/
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 DSAConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlists/        # Singly, Doubly, Circular Linked List
+│   │               └── 📁 stackandqueues/     # Stack & Queue
+│   │               └── 📁 hashmap/            # HashMap + Hash Functions
+│   │               └── 📁 sorting/            # Sorting Algorithms
+```
+
+---
+
 # Week 1: Git, GitHub & Java Programming Fundamentals
 
 ---
@@ -483,6 +525,38 @@ and many more...
 **Code Links:**
 
 - [Sorting Algorithms](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sortingalgorithms)
-- - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day4)
+- [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day4)
 
 ---
+
+## Day 19 – Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+(**Date: 6-Dec-2025**)
+
+
+**Topics studied:**
+- BufferedReader
+- FileReader
+- InputStreamReader
+- StringBuilder
+- StringBuffer
+- Linear Search
+- Binary Search
+
+
+**Practiced Problems:**
+- Concatenate Strings Efficiently Using StringBuffer
+- Read a File Line by Line Using FileReader
+- Convert Byte Stream to Character Stream Using InputStreamReader
+- Search for the First Negative Number
+- Find the Rotation Point in a Rotated Sorted Array
+
+and many more...
+- Solved **4 scenario-based Java OOP programs**
+
+**Code Links:**
+
+- [Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/ioandstringsandsearching)
+- [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day5)
+  
+---
+
