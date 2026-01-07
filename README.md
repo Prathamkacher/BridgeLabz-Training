@@ -96,3 +96,32 @@ and many more...
 
 ---
 
+## Day 19 – Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+(**Date: 6-Dec-2025**)
+
+
+**Topics studied:**
+- BufferedReader
+- FileReader
+- InputStreamReader
+- StringBuilder
+- StringBuffer
+- Linear Search
+- Binary Search
+
+
+**Practiced Problems:**
+- Concatenate Strings Efficiently Using StringBuffer
+- Read a File Line by Line Using FileReader
+- Convert Byte Stream to Character Stream Using InputStreamReader
+- Search for the First Negative Number
+- Find the Rotation Point in a Rotated Sorted Array
+
+and many more...
+
+**Code Links:**
+
+- [Linear Search, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader]()
+
+---
+
