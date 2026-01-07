@@ -66,3 +66,33 @@ and many more...
 - [HashMap & Functions](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/hashmapandfunctions)
 
 ---
+
+## Day 18 – Sorting Algorithms
+(**Date: 5-Dec-2025**)
+
+
+**Topics studied:**
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Selection Sort
+- Heap Sort
+- Counting Sort
+
+
+**Practiced Problems:**
+- Bubble Sort - Sort Student Marks
+- Insertion Sort - Sort Employee IDs
+- Merge Sort - Sort an Array of Book Prices
+- Quick Sort - Sort Product Prices
+- Selection Sort - Sort Exam Scores
+- Heap Sort - Sort Job Applicants by Salary
+- Counting Sort - Sort Student Ages
+
+**Code Links:**
+
+- [Sorting Algorithms](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/sorting)
+
+---
+
