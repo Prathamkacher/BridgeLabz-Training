@@ -1,16 +1,30 @@
+##  Repository Branches
+
+### 🔹 [core-java-practice](https://github.com/Prathamkacher/BridgeLabz-Training/blob/core-java-practice)
+**Week 1** : Fundamentals of Java Programming
+
+### 🔹 [java-oops-practice](https://github.com/Prathamkacher/BridgeLabz-Training/blob/java-oops-practice)
+**Week 2** : Object-Oriented Programming
+
+### 🔹 [dsa-practice](https://github.com/Prathamkacher/BridgeLabz-Training/blob/dsa-practice)
+**Week 3** : Data Structures and Algorithms
+
+---
+
 ## 📂 Project Structure
+
 ```
 BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/
 │   ├── 📁 gcr-codebase/
-│   │   ├── 📁 prerequisites/          # Basic Java programs 
+│   │   ├── 📁 program-prerequisites/  # Basic Java programs 
 │   │   ├── 📁 programming-elements/   # Java programming elements 
 │   │   ├── 📁 control-flows/          # If-else, loops, switch 
 │   │   ├── 📁 arrays/                 # Array operations
 │   │   ├── 📁 methods/                # Method practices
-│   │   ├── 📁 strings/                # String manipulation 
-│   │   └── 📁 Extras/                 # Built-in methods
+│   │   ├── 📁 string/                 # String manipulation 
+│   │   └── 📁 extras/                 # Built-in methods
 │   ├── 📁 leet-code-codebase/         # LeetCode solutions
 │   └── 📁 scenario-based-codebase/    # Real-world problems
 │
@@ -36,6 +50,13 @@ BridgeLabz-Training/
 │   │               └── 📁 stackandqueues/     # Stack & Queue
 │   │               └── 📁 hashmap/            # HashMap + Hash Functions
 │   │               └── 📁 sorting/            # Sorting Algorithms
+│   │               └── 📁 searching/          # Searching Algorithms
+│   │               └── 📁 runtimeanalysis/    # Runtime Analysis & Big-O Notation
+│   ├── 📁 leet-code-codebase/                 # LeetCode solutions
+│   └── 📁 scenario-based-codebase/            # Real-world problems
+|
+└── README.md
+
 ```
 
 ---
