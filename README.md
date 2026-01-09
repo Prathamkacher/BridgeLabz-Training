@@ -257,4 +257,17 @@ and many more...
 [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day7)
 
 ---
+# Week 4: OOPs Scenario Based Ques
+---
 
+## Day 22 – Solved OOPs scenario based problems
+(**Date: 9-Dec-2025**)
+
+**Practiced Problems**
+
+- Solved **3 scenario-based Java OOP programs**:
+  - Artify – Digital Art Marketplace
+  - FoodLoop – Restaurant Ordering System
+  - SkillForge – Online Learning Portal
+    
+[OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day8)
