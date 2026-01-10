@@ -1,0 +1,26 @@
+/.metadata/
+javaDSAScenerioBased.metadata/
+
+javaDSAScenerioBased/.settings/
+
+javaDSAScenerioBased/.classpath
+
+javaDSAScenerioBased/.project
+javaDSAScenerioBased/.gitignore
+
+
+# Java build output
+
+javaDSAScenerioBased/bin/
+
+javaDSAScenerioBased/target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
