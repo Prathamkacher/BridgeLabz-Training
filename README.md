@@ -610,7 +610,7 @@ and many more...
 ---
 
 ## Day 21 – Java OOPs scenario baesd questions
-(**Date: 8-Jan-2025**)
+(**Date: 8-Jan-2026**)
 
 **Practiced Problems:**
 - Solved **2 scenario-based Java OOP programs:**
@@ -623,7 +623,7 @@ and many more...
 ---
 
 ## Day 22 – Java OOPs scenario baesd questions
-(**Date: 9-Jan-2025**)
+(**Date: 9-Jan-2026**)
 
 **Practiced Problems:**
 - Solved **3 scenario-based Java OOP programs:**
@@ -636,3 +636,16 @@ and many more...
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day8)
 ---
 
+## Day 23 – Java DSA scenario baesd questions
+(**Date: 10-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - BookShelf – Library Organizer (HashMap + Linked List)
+  - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+  - AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day1)
+---
