@@ -46,12 +46,12 @@ BridgeLabz-Training/
 │   │  └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 linkedlists/        # Singly, Doubly, Circular Linked List
-│   │               └── 📁 stackandqueues/     # Stack & Queue
-│   │               └── 📁 hashmap/            # HashMap + Hash Functions
-│   │               └── 📁 sorting/            # Sorting Algorithms
-│   │               └── 📁 searching/          # Searching Algorithms
-│   │               └── 📁 runtimeanalysis/    # Runtime Analysis & Big-O Notation
+│   │               ├── 📁 linkedlist/        				# Singly, Doubly, Circular Linked List
+│   │               └── 📁 stackandqueues/     				# Stack & Queue
+│   │               └── 📁 hashmapandfunctions/            	# HashMap + Hash Functions
+│   │               └── 📁 sorting/            				# Sorting Algorithms
+|	|				└── 📁 ioandstringsandsearching/		# IO, Strings and Searching
+|	|				└── 📁 algorithmsruntimebigo/			# Algorithms, Big O, Runtime
 │   ├── 📁 leet-code-codebase/                 # LeetCode solutions
 │   └── 📁 scenario-based-codebase/            # Real-world problems
 |
@@ -607,4 +607,17 @@ and many more...
 
 - [Algorithm's Runtime Analysis & Big-O Notation](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmsruntimebigo)
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day6)
+---
+
+## Day 21 – Java OOPs scenario baesd questions
+(**Date: 8-Jan-2025**)
+
+**Practiced Problems:**
+- Solved **2 scenario-based Java OOP programs:**
+  - MediStore – Pharmacy Inventory & Sales System
+  - TourMate – Travel Itinerary Planner
+
+**Code Links:**
+
+- [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day7)
 ---
