@@ -1,3 +1,18 @@
+/*
+ * 24. "GameBox – Mobile Game Distribution Platform"
+Story: GameBox offers mobile games for download and purchase with features like demos,
+reviews, and leaderboards.
+Requirements:
+● Game class: title, genre, price, rating.
+● User class with list of owned games.
+● Interface IDownloadable: download(), playDemo().
+● Constructors to set up free or paid games.
+● Use operators to apply seasonal offers.
+● Encapsulation: user-owned game data protected.
+● Inheritance: ArcadeGame, StrategyGame from Game.
+● Polymorphism: playDemo() behaves differently per genre.
+ */
+
 package com.day9.gamebox;
 
 public class GameBoxMain {
