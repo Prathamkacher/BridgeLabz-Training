@@ -166,3 +166,18 @@ and many more...
 
 - [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day1)
 ---
+# Day 24 – Java DSA scenario baesd questions
+(**Date: 12-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **5 scenario-based Java DSA programs:**
+  - CallCenter – Customer Queue Manager (Queue + HashMap)
+  - TrainCompanion – Compartment Navigation System (Doubly LinkedList)
+  - TextEditor – Undo/Redo Functionality (Stack)
+  - Bookshelf – Library Organizer (HashMap + Linked List)
+  - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day2)
+---
