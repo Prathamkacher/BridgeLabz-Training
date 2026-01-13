@@ -150,3 +150,19 @@ and many more...
 - [Algorithm's Runtime Analysis & Big-O Notation](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAConcepts/src/com/algorithmsruntimebigo)
 
 ---
+# Week 4: DSA Scenario based questions
+---
+
+## Day 23 – Java DSA scenario baesd questions
+(**Date: 10-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - BookShelf – Library Organizer (HashMap + Linked List)
+  - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+  - AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day1)
+---
