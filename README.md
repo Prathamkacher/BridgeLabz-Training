@@ -271,3 +271,21 @@ and many more...
   - SkillForge – Online Learning Portal
     
 [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day8)
+
+---
+
+## Day 24 – Java OOP scenario based questions 
+(**Date: 12-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java OOP programs:**
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
+
+**Code Links:**
+
+- [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day9)
+
+---
+
