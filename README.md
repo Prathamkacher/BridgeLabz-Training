@@ -289,3 +289,17 @@ and many more...
 
 ---
 
+## Day 25 – Java OOP scenario based questions
+(**Date: 13-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **2 scenario-based Java OOP programs:**
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary
+
+
+**Code Links:**
+
+- [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day10)
+
+---
