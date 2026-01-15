@@ -649,3 +649,24 @@ and many more...
 
 - [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day1)
 ---
+## Day 24 – Java DSA & OOP scenario baesd questions and leetcode
+(**Date: 12-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **5 scenario-based Java DSA programs:**
+  - CallCenter – Customer Queue Manager (Queue + HashMap)
+  - TrainCompanion – Compartment Navigation System (Doubly LinkedList)
+  - TextEditor – Undo/Redo Functionality (Stack)
+  - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
+  - BookShelf – Library Organizer (HashMap + Linked List)
+- Solved **3 scenario-based Java OOP programs:**
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day2)
+- [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day9)
+
+---
