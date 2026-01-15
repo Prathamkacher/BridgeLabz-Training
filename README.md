@@ -663,10 +663,31 @@ and many more...
   - HomeNest – Smart Home Device Manager
   - BudgetWise – Personal Finance Tracker
   - GameBox – Mobile Game Distribution Platform
-
+- Solved **4 Leet-code-problems:**
 **Code Links:**
 
 - [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day2)
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day9)
+- [Leet code practice](https://github.com/Prathamkacher/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
+
+---
+## Day 25 – Trees Theory & Java DSA scenario baesd questions
+(**Date: 13-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+- Solved **2 scenario-based Java OOP programs:**
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary
+- Solved **3 LeetCode problems** using Core Java.
+
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day3)
+- [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day10)
 
 ---
