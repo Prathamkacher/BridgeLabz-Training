@@ -166,7 +166,7 @@ and many more...
 
 - [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day1)
 ---
-# Day 24 – Java DSA scenario baesd questions
+## Day 24 – Java DSA scenario baesd questions
 (**Date: 12-Jan-2026**)
 
 **Practiced Problems:**
@@ -183,7 +183,7 @@ and many more...
 ---
 
 ## Day 25 – Java DSA scenario baesd questions
-(**Date: 12-Jan-2026**)
+(**Date: 13-Jan-2026**)
 
 **Practiced Problems:**
 - Solved **3 scenario-based Java DSA programs:**
@@ -194,4 +194,19 @@ and many more...
 **Code Links:**
 
 - [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day3)
+---
+## Day 26 – Java DSA scenario baesd questions
+(**Date: 15-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **5 scenario-based Java DSA programs:**
+  - HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+  - SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+  - ZipZipMart – Daily Sales Summary Report (Merge Sort)
+  - EventManager – Ticket Price Optimizer (Quick Sort)
+  - ExamCell – Student Rank Generator (Merge Sort)
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day4)
 ---
