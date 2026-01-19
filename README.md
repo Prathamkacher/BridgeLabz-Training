@@ -634,6 +634,9 @@ and many more...
 **Code Links:**
 
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day8)
+  
+---
+# Week 4: DSA Scenario based questions and Leetcode
 ---
 
 ## Day 23 – Java DSA scenario baesd questions
@@ -682,7 +685,6 @@ and many more...
 - Solved **2 scenario-based Java OOP programs:**
   - PayXpress – Utility Bill Payment System
   - Bird Sanctuary
-- Solved **3 LeetCode problems** using Core Java.
 
 
 **Code Links:**
