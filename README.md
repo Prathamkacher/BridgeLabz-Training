@@ -693,3 +693,27 @@ and many more...
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day10)
 
 ---
+## Day 26 – Generics & Graphs Theory & Java DSA scenario baesd questions
+(**Date: 15-Jan-2026**)
+
+**Topics Studied**
+- Type Parameters in Generics
+- Generic Classes
+- Generic Methods
+- Wildcards in Generics
+
+**Practiced Problems:**
+- Solved **5 scenario-based Java DSA programs:**
+  - HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+  - SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+  - ZipZipMart – Daily Sales Summary Report (Merge Sort)
+  - EventManager – Ticket Price Optimizer (Quick Sort)
+  - ExamCell – Student Rank Generator (Merge Sort)
+- Solved problems on Generics
+
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day4)
+- [Generics](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/generics)
+---
