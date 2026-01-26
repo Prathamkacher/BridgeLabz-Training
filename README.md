@@ -763,3 +763,35 @@ and many more...
 - [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day11)
 
 ---
+---
+# Week 5: Collections & DSA Scenario based questions
+---
+
+## Day 29 – Streams & Java DSA, OOP scenario baesd questions
+(**Date: 19-Jan-2026**)
+
+**Topics Studied**
+- Java I/O Streams
+- Types of Streams
+  - File Streams
+  - Object Streams
+  - ByteArray Streams
+  - Buffered Streams
+  - Reader and Writer
+
+**Practiced Problems:**
+- Solved **3 scenario-based Java DSA programs:**
+  - EduResults – Rank Sheet Generator (Merge Sort)
+  - FlashDealz – Product Sorting by Discount (Quick Sort)
+  - FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- Solved **1 scenario-based Java OOP programs:**
+  - Address Book System
+
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day7)
+- [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day12)
+- [Java Srteams](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams)
+
+---
