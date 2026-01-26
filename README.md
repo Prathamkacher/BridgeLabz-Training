@@ -738,7 +738,28 @@ and many more...
 
 **Code Links:**
 
-- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day4)
+- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day5)
 - [Collections](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/collections)
+
+---
+
+## Day 28 – Java DSA and OOP scenario baesd questions
+(**Date: 17-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **4 scenario-based Java DSA programs:**
+  - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  - FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+  - IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+  - SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+- Solved **2 scenario-based Java OOP programs:**
+  - GeoMeasure Solutions
+  - Bag-n-Ball Organizer
+
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day6)
+- [OOPs Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/javaOopsScenerioBased/javaOopsPractice/src/com/day11)
 
 ---
