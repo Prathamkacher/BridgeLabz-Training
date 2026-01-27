@@ -825,3 +825,39 @@ and many more...
 - [Java Exceptions](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/exceptions)
 
 ---
+## Day 31 – Regex and Junit & Java DSA scenario based questions
+(**Date: 21-Jan-2026**)
+
+**Topics Studied**
+- Regex
+  - MetaCharacter
+  - Quantifier
+  - Common Patterns:
+    - Email Validation
+    - Password Strength
+    - Phone Number Format 
+  - Java Regex API
+    - Pattern
+    - Matcher
+- Junit
+  - Introduction to JUnit Framework
+  - JUnit Annotations
+  - Writing Test Cases
+  - Structure of a Test Class
+  - Assertions
+
+**Practiced Problems:**
+- Solved **5 scenario-based Java DSA programs:**
+  - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
+  - MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+  - University's Digital Record System
+  - E-Commerce Product Inventory
+  - Music App - Organize Songs by Track ID
+
+**Code Links:**
+
+- [DSA Java Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day9)
+- [BST Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day10)
+- [Regex & Junit](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/regexandjunit)
+
+---
