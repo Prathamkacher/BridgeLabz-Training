@@ -60,3 +60,24 @@
 ---
 # Week 5: Collections
 ---
+## Day 29 – Java Collections
+(**Date: 19-Jan-2026**)
+
+**Topics Studied**
+- Java I/O Streams
+- Types of Streams
+  - File Streams
+  - Object Streams
+  - ByteArray Streams
+  - Buffered Streams
+  - Reader and Writer
+
+**Practiced Problems:**
+- Solved problems on Streams
+
+
+**Code Links:**
+
+- [Java Streams](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams)
+  
+---
