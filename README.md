@@ -158,3 +158,19 @@
 - [Annotations & Reflection](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/annotationsandreflection)
 
 ---
+## Day 33 – CSV Data Handling & Java Collections scenario based questions
+(**Date: 23-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **5 scenario-based Java Collections programs:**
+  - ResumeAnalyzer – Smart Resume Filtering System
+  - TravelLog – Trip Organizer for Backpackers
+  - UFeedbackGuru – Smart Survey Analyzer
+  - CodeRepoCleaner – Java File Scanner and Organizer
+  - ExamScanner – Digital Answer Sheet Validator
+
+**Code Links:**
+
+- [Java Collections Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/scenerio-based-codebase/javaCollectionScenerioBased/src/com/day1)
+
+---
