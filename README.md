@@ -81,3 +81,27 @@
 - [Java Streams](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/streams)
   
 ---
+## Day 30 – Exceptions
+(**Date: 20-Jan-2026**)
+
+**Topics Studied**
+- Exceptions
+- Types of Exceptions
+  - Checked Exceptions,
+  - Unchecked Exceptions
+  - Custom Exceptions
+- Handling Exceptions
+  - try-catch blocks
+  - try-catch-finally blocks
+  - try-with-resources statement
+  - throws clause
+  - throw statement
+
+**Practiced Problems:**
+- Solved problems on Exceptions
+
+
+**Code Links:**
+
+- [Java Exceptions](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/exceptions)
+
