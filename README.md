@@ -9,6 +9,9 @@
 ### 🔹 [dsa-practice](https://github.com/Prathamkacher/BridgeLabz-Training/blob/dsa-practice)
 **Week 3** : Data Structures and Algorithms
 
+### 🔹 [java-collections-practice](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice)
+**Week 4** : Collections Framework in Java
+
 ---
 
 ## 📂 Project Structure
@@ -41,6 +44,7 @@ BridgeLabz-Training/
 │   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
+|
 └── 📁 dsa-practice/
 │   └── 📁 gcr-codebase/
 │   │  └── 📁 DSAConcepts/
@@ -55,6 +59,17 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/                 # LeetCode solutions
 │   └── 📁 scenario-based-codebase/            # Real-world problems
 |
+└── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 CollectionsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├──📁 generics/            # Generic classes, methods, wildcards
+│   │               ├──📁 collections/         # Different Interfaces and their Implementations 
+│   │               ├──📁 streams/             # I/O streams, buffering, and serialization
+|   |               └──📁 exceptionhandling/   # Checked, unchecked, custom exceptions, try-with-resources
+│   |
+│   └── 📁 scenario-based-codebase/
 └── README.md
 
 ```
@@ -886,5 +901,29 @@ and many more...
 
 - [AVL tree Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based-problems/javaDSAScenerioBased/src/com/day10)
 - [Annotations & Reflection](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/annotationsandreflection)
+
+---
+## Day 33 – CSV Data Handling & Java Collections scenario based questions
+(**Date: 23-Jan-2026**)
+
+**Topics Studied**
+- Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
+
+**Practiced Problems:**
+- Solved **5 scenario-based Java Collections programs:**
+  - ResumeAnalyzer – Smart Resume Filtering System
+  - TravelLog – Trip Organizer for Backpackers
+  - UFeedbackGuru – Smart Survey Analyzer
+  - CodeRepoCleaner – Java File Scanner and Organizer
+  - ExamScanner – Digital Answer Sheet Validator
+
+**Code Links:**
+
+- [Java Collections Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/scenerio-based-codebase/javaCollectionScenerioBased/src/com/day1)
+- [CSV Data Handling]()
 
 ---
