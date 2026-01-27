@@ -158,7 +158,7 @@
 - [Annotations & Reflection](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/annotationsandreflection)
 
 ---
-## Day 33 – CSV Data Handling & Java Collections scenario based questions
+## Day 33 – Java Collections scenario based questions
 (**Date: 23-Jan-2026**)
 
 **Practiced Problems:**
@@ -174,3 +174,18 @@
 - [Java Collections Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/scenerio-based-codebase/javaCollectionScenerioBased/src/com/day1)
 
 ---
+## Day 34 – Java Collections scenario based questions
+(**Date: 24-Jan-2026**)
+
+**Practiced Problems:**
+- Solved **5 scenario-based Java Collections programs:**
+  - MedInventory – Smart Hospital Inventory Tracker
+  - ChatLogParser – Messaging Pattern Analyzer
+  - SongVault – Personal Music Library Manager
+  - ExamResultUploader – Bulk Marks Processing
+  - DealTracker – E-Commerce Discount Validator
+
+**Code Links:**
+
+- [Java Collections Scenario Based Programs](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/scenerio-based-codebase/javaCollectionScenerioBased/src/com/day2)
+  
