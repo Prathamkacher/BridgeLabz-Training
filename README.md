@@ -135,3 +135,26 @@
 - [Regex & Junit](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/regexandjunit)
 
 ---
+## Day 32 – Annotations and Reflection
+(**Date: 22-Jan-2026**)
+
+**Topics Studied**
+- Annotations
+  - Common Built-in Annotations
+  - Creating Custom Annotations
+  - Advanced Custom Annotations
+  - Real-World Use Cases
+  - Annotation Processing Tools
+- Reflection
+  - Understanding of Reflection
+  - Using Reflection in Java
+  - Annotations and Reflection
+
+**Practiced Problems:**
+- Solved problems on Annotations and Reflection
+
+**Code Links:**
+
+- [Annotations & Reflection](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/annotationsandreflection)
+
+---
