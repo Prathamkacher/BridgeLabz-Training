@@ -105,3 +105,33 @@
 
 - [Java Exceptions](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/exceptions)
 
+---
+
+## Day 31 – Regex and Junit
+(**Date: 21-Jan-2026**)
+
+**Topics Studied**
+- Regex
+  - MetaCharacter
+  - Quantifier
+  - Common Patterns:
+    - Email Validation
+    - Password Strength
+    - Phone Number Format 
+  - Java Regex API
+    - Pattern
+    - Matcher
+- Junit
+  - Introduction to JUnit Framework
+  - JUnit Annotations
+  - Writing Test Cases
+  - Structure of a Test Class
+  - Assertions
+
+**Practiced Problems:**
+- Solved problems on Regex and Junit
+
+**Code Links:**
+- [Regex & Junit](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/regexandjunit)
+
+---
