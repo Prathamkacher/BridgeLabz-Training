@@ -46,3 +46,17 @@
 - [Collections](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/collections)
 
 ---
+## Day 28 – Collections
+(**Date: 17-Jan-2026**)
+
+**Practiced Problems:**
+- Solved problems on Collections
+
+
+**Code Links:**
+
+- [Collections](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/collections)
+
+---
+# Week 5: Collections
+---
