@@ -23,4 +23,26 @@
 **Code Links:**
 
 - [Generics](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/generics)
+  
+---
+
+## Day 27 – Collections
+(**Date: 16-Jan-2026**)
+
+**Topics Studied:**
+- Overview of Collection Framework
+- Hierarchy of Collection Framework
+- List Interface and Implementing Classes
+- Set Interface and Implementing Classes
+- Queue and Deque Interfaces
+- Map Interface and Its Implementations
+
+**Practiced Problems:**
+- Solved problems on Collections
+
+
+**Code Links:**
+
+- [Collections](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice/java-collection-practice/gcr-codebase/JavaCollectionConcepts/src/com/collections)
+
 ---
