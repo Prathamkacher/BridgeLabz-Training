@@ -29,8 +29,8 @@ BridgeLabz-Training/
 │   │   ├── 📁 string/                 # String manipulation 
 │   │   └── 📁 extras/                 # Built-in methods
 │   ├── 📁 leet-code-codebase/         # LeetCode solutions
-│   └── 📁 scenario-based-codebase/    # Real-world problems
-│
+│   ├── 📁 scenario-based-codebase/    # Real-world problems
+│   └── README.md
 └── 📁 java-oops-practice/
 │   └── 📁 gcr-codebase/
 │   │  └── 📁 JavaOopsConcepts/
@@ -43,8 +43,8 @@ BridgeLabz-Training/
 │   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
 │   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
-│   └── 📁 scenario-based-codebase/           # Real-world problems
-|
+│   ├── 📁 scenario-based-codebase/           # Real-world problems
+|   └── README.md
 └── 📁 dsa-practice/
 │   └── 📁 gcr-codebase/
 │   │  └── 📁 DSAConcepts/
@@ -57,8 +57,8 @@ BridgeLabz-Training/
 |	|				└── 📁 ioandstringsandsearching/		# IO, Strings and Searching
 |	|				└── 📁 algorithmsruntimebigo/			# Algorithms, Big O, Runtime
 │   ├── 📁 leet-code-codebase/                 # LeetCode solutions
-│   └── 📁 scenario-based-codebase/            # Real-world problems
-|
+│   ├── 📁 scenario-based-codebase/            # Real-world problems
+|   └── README.md
 └── 📁 java-collections-practice/
 │   ├── 📁 gcr-codebase/
 │   │  └── 📁 CollectionsConcepts/
@@ -69,7 +69,8 @@ BridgeLabz-Training/
 │   │               ├──📁 streams/             # I/O streams, buffering, and serialization
 |   |               └──📁 exceptionhandling/   # Checked, unchecked, custom exceptions, try-with-resources
 │   |
-│   └── 📁 scenario-based-codebase/
+│   ├── 📁 scenario-based-codebase/
+│   └── README.md
 └── README.md
 
 ```
