@@ -8,7 +8,7 @@ public class OnlyAlphabet {
 		
 		String result = 
 				input.chars()
-				.filter(Character::isLetter)
+				.filter(Character::isLetterOrDigit)
 				.mapToObj(c -> String.valueOf((char) c))
 				.collect(Collectors.joining());
 		
