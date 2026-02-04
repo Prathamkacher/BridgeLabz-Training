@@ -1013,3 +1013,15 @@ and many more...
 - [Case Study](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPattern/src/com/librarymanagementsystem)
 
 ---
+## Day 38 – Java Multithreading
+(**Date: 2-feb-2026**)
+
+**Topics Studied:**
+- What is multithreading in Java?
+- What is the Thread Lifecycle in Java?
+- How to create threads in Java?
+
+**Code Links:**
+- [Java Multithreading]()
+- [Multithreading Scenario Based Program]()
+---
