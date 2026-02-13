@@ -12,6 +12,18 @@
 ### 🔹 [java-collections-practice](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-collections-practice)
 **Week 4** : Collections Framework in Java
 
+### 🔹 [java-iostreams-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-iostreams-practice)
+**Week 5** : Java I/O Streams
+
+### 🔹 [java8-programming-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java8-programming-practice)
+**Week 6** : Java 8 Features
+
+### 🔹 [java-design-pattern-practice](https://github.com/Prashant-kumar-sharma/BridgeLabz-Training/tree/java-design-pattern-practice)
+**Week 7** : Java Design Principles & Design Patterns
+
+### 🔹 [dbms-jdbc-practice](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice)
+**Week 8** : MYSQL & JDBC
+
 ---
 
 ## 📂 Project Structure
@@ -1053,5 +1065,21 @@ and many more...
 
 **Code Links:**
 - [MYSQL](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/resources/com/dbmsjdbc/sql)
+
+---
+## Day 41 – MYSQL Scenario Based Questions
+(**Date: 7-feb-2026**)
+
+**Practiced Problems:**
+- Solved **6 scenario-based on MYSQL:**
+  - Patient Management
+  - Doctor Management
+  - Appointment Scheduling
+  - Visit Management & Medical Records
+  - Billing & Payments
+  - System Administration
+  
+**Code Links:**
+- [MYSQL Scenario Based Program](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/DBMSJDBCScenerioBased/src/main/resources/com/dbmsjdbc/sqlpractice)
 
 ---
