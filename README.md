@@ -1022,6 +1022,18 @@ and many more...
 - How to create threads in Java?
 
 **Code Links:**
-- [Java Multithreading]()
-- [Multithreading Scenario Based Program]()
+- [Java Multithreading](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPattern/src/com/multithreading)
+- [Multithreading Scenario Based Program](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scerio-based-codebase/JavaDesignScenarioBased/src/com/banktransactions)
+  
+---
+## Day 39 – Java Multithreading Scenario Based
+(**Date: 3-feb-2026**)
+
+**Practiced Problems:**
+- Solved **1 scenario-based Java Multithreading program:**
+  - Bank Transactions
+  
+**Code Links:**
+- [Multithreading Scenario Based Program](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scerio-based-codebase/JavaDesignScenarioBased/src/com/banktransactions)
+
 ---
