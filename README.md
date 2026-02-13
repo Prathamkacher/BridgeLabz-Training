@@ -1037,3 +1037,21 @@ and many more...
 - [Multithreading Scenario Based Program](https://github.com/Prathamkacher/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scerio-based-codebase/JavaDesignScenarioBased/src/com/banktransactions)
 
 ---
+# Week 8: MYSQL & JDBC
+----
+
+## Day 40 – MYSQL
+(**Date: 6-feb-2026**)
+
+**Topics Studied:**
+- Introduction to Indexing
+- Types of Indexes in MySQL
+- How Indexes Work
+- Creating and Managing Indexes
+- Index Best Practices
+- Performance Considerations
+
+**Code Links:**
+- [MYSQL](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/resources/com/dbmsjdbc/sql)
+
+---
