@@ -20,3 +20,19 @@
 
 ---
 
+## Day 41 – MYSQL Scenario Based Questions
+(**Date: 7-feb-2026**)
+
+**Practiced Problems:**
+- Solved **6 scenario-based on MYSQL:**
+  - Patient Management
+  - Doctor Management
+  - Appointment Scheduling
+  - Visit Management & Medical Records
+  - Billing & Payments
+  - System Administration
+  
+**Code Links:**
+- [MYSQL Scenario Based Program](https://github.com/Prathamkacher/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/DBMSJDBCScenerioBased/src/main/resources/com/dbmsjdbc/sqlpractice)
+
+---
