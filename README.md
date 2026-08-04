@@ -105,3 +105,100 @@ Generated all substrings, normalized them by sorting, stored frequencies using a
 - **Platform:** HackerRank
 
 ---
+
+# 📅 Day 2 – Stacks, Queues & Problem Solving
+
+## 📚 Topics Covered
+
+### 🔹 Stack (LIFO - Last In, First Out)
+Studied the fundamentals of the Stack data structure including:
+- LIFO Principle
+- Push Operation
+- Pop Operation
+- Peek Operation
+- Stack Implementation using Arrays
+- Stack Implementation using Linked Lists
+
+### 🔹 Queue (FIFO - First In, First Out)
+Learned the Queue data structure and its operations:
+- FIFO Principle
+- Enqueue Operation
+- Dequeue Operation
+- Front/Peek Operation
+- Queue Implementation
+- Circular Queue Concept
+
+### 🔹 Real-World Applications
+Explored practical applications of Stacks and Queues:
+- Undo/Redo Operations
+- Browser Back & Forward Navigation
+- Function Call Stack
+- Backtracking Algorithms
+- Task Scheduling
+- Breadth First Search (BFS)
+
+### 🔹 Problem Solving Applications
+Implemented and understood:
+- Balanced Parentheses Checker
+- Queue using Two Stacks
+- Maximum Element in Stack
+- Stack-based Undo Mechanism
+- Circular Queue Concept
+- Introduction to Infix-to-Postfix Conversion
+
+---
+
+# 💻 HackerRank Problems Solved
+
+| # | Problem | Difficulty | Concepts Used |
+|---|---------|------------|---------------|
+| 01 | Maximum Element | Easy | Stack, Auxiliary Stack, Maximum Tracking |
+| 02 | Equal Stacks | Easy | Stack, Prefix Sum, Greedy |
+| 03 | Simple Text Editor | Medium | Stack, String Manipulation, Undo Operation |
+| 04 | Balanced Brackets | Medium | Stack, Parentheses Matching |
+| 05 | Queue using Two Stacks | Easy-Medium | Queue Implementation, Two Stacks |
+| 06 | Truck Tour | Medium | Queue, Circular Traversal, Greedy |
+
+---
+
+## 📖 Problem Summary
+
+### ✅ Maximum Element
+Implemented a stack supporting **push**, **pop**, and **maximum element retrieval** in constant time using an auxiliary stack.
+
+### ✅ Equal Stacks
+Determined the maximum possible equal height of three stacks by removing cylinders from the top using a greedy approach.
+
+### ✅ Simple Text Editor
+Built a text editor supporting **append**, **delete**, **print**, and **undo** operations using a stack to maintain previous states.
+
+### ✅ Balanced Brackets
+Validated whether a sequence of brackets is balanced by matching opening and closing brackets using a stack.
+
+### ✅ Queue using Two Stacks
+Implemented FIFO queue behavior using two LIFO stacks while supporting enqueue, dequeue, and front operations efficiently.
+
+### ✅ Truck Tour
+Solved the circular petrol pump problem by finding the valid starting index that allows completing the full circular journey.
+
+---
+
+## 🎯 Key Learnings
+
+- Developed a strong understanding of Stack and Queue data structures.
+- Learned the difference between LIFO and FIFO principles.
+- Understood when to use Stacks versus Queues in real-world scenarios.
+- Implemented Stack- and Queue-based algorithms from scratch.
+- Applied Stack concepts to solve undo operations and balanced bracket validation.
+- Learned how two stacks can efficiently simulate queue behavior.
+- Improved problem-solving using greedy techniques and circular traversal logic.
+- Strengthened analytical thinking by solving medium-level HackerRank challenges.
+
+---
+
+## 🚀 Progress
+
+- **Topics Completed:** Stacks, Queues, Circular Queue, Stack Applications
+- **Problems Solved:** **6**
+- **Language:** Java
+- **Platform:** HackerRank
